@@ -1,9 +1,9 @@
 import React from "react";
 
-const Header = () => {
+const Maps = () => {
     return (
-        <h1>Header</h1>
+        <h1>Here is Maps</h1>
     );
 }
 
-export default Header;
+export default Maps;
